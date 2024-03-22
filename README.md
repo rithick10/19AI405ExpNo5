@@ -1,4 +1,4 @@
-# ExpNo 5 : Implement Simple Hill Climbing Algorithm
+# ExpNo 5 : Implement 
 ## Name: HARINI V
 ## Register Number: 212222230044
 <H3>Aim:</H3>
@@ -99,3 +99,6 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
+
+## RESULT:
+Thus, the program to  implement Simple Hill Climbing Algorithm is executed successfully.
