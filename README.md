@@ -1,6 +1,6 @@
 # ExpNo 5 : Implement Simple Hill Climbing Algorithm
-## Name:  B.Allen Steve Bernard
-## Register Number: 212221220004
+## Name: Rithick S P
+## Register Number: 212221220043
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
