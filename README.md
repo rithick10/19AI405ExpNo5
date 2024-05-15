@@ -1,5 +1,5 @@
 # ExpNo 5 : Implement Simple Hill Climbing Algorithm
-## Name:  B.Allen Steve Bernard
+## Name:  B.Allen Steve Bernar
 ## Register Number: 212221220004
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
